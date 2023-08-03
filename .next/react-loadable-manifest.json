@@ -1,0 +1,74 @@
+{
+  "index.js -> ../components/GithubProfileCard": {
+    "id": 9551,
+    "files": [
+      "static/chunks/commons.039bef1f48a80e454cb4.js",
+      "static/chunks/675.8db57f8683a890bccf67.js",
+      "static/chunks/551.7b1734455b5e74e53841.js"
+    ]
+  },
+  "index.js -> ../components/Navigation": {
+    "id": 1590,
+    "files": [
+      "static/chunks/commons.039bef1f48a80e454cb4.js",
+      "static/chunks/317.f916bb73e570872a60e7.js",
+      "static/chunks/590.9cf908d116103511af50.js"
+    ]
+  },
+  "index.js -> ../containers/Education": {
+    "id": 2893,
+    "files": [
+      "static/chunks/commons.039bef1f48a80e454cb4.js",
+      "static/chunks/871.f63a9bff60378da136d4.js"
+    ]
+  },
+  "index.js -> ../containers/Experience": {
+    "id": 3974,
+    "files": [
+      "static/chunks/commons.039bef1f48a80e454cb4.js",
+      "static/chunks/675.8db57f8683a890bccf67.js",
+      "static/chunks/39.3d1132deca168dad1027.js",
+      "static/chunks/974.e3532d6bb0f1487aaaf6.js"
+    ]
+  },
+  "index.js -> ../containers/Feedbacks": {
+    "id": 3519,
+    "files": [
+      "static/chunks/commons.039bef1f48a80e454cb4.js",
+      "static/chunks/519.0c732ef97b175089abab.js"
+    ]
+  },
+  "index.js -> ../containers/Greetings": {
+    "id": 3185,
+    "files": [
+      "static/chunks/ea88be26.81d510478953a854a913.js",
+      "static/chunks/commons.039bef1f48a80e454cb4.js",
+      "static/chunks/185.8d9148953fcd537e867f.js"
+    ]
+  },
+  "index.js -> ../containers/Proficiency": {
+    "id": 7338,
+    "files": [
+      "static/chunks/ea88be26.81d510478953a854a913.js",
+      "static/chunks/commons.039bef1f48a80e454cb4.js",
+      "static/chunks/338.c3aae9d1476f18614a5c.js"
+    ]
+  },
+  "index.js -> ../containers/Projects": {
+    "id": 4829,
+    "files": [
+      "static/chunks/commons.039bef1f48a80e454cb4.js",
+      "static/chunks/829.f30a016fdd1eef68d274.js"
+    ]
+  },
+  "index.js -> ../containers/Skills": {
+    "id": 5688,
+    "files": [
+      "static/chunks/ea88be26.81d510478953a854a913.js",
+      "static/chunks/commons.039bef1f48a80e454cb4.js",
+      "static/chunks/317.f916bb73e570872a60e7.js",
+      "static/chunks/546.f5571792cb76df6c8423.js",
+      "static/chunks/688.79767df85b0c7830e9ab.js"
+    ]
+  }
+}
